@@ -1,0 +1,21 @@
+body{
+    background-size: cover;
+}
+
+#hed{
+background-color: gold;
+font-size: 30px;
+font-weight: bolder;
+border-radius: 20px;
+}
+
+#happy{
+background-color: orange;
+width: 100%;
+margin-top: 0px;
+}
+
+#f{
+    color: ivory;
+    font-weight: bold;
+}
